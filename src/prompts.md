@@ -1,0 +1,1498 @@
+# Make Some Noise — prompt deck
+
+> Edit freely. Each `## section` holds cards, one per `- ` line.
+> Lines starting with `>` are comments. The app picks up changes on reload.
+> `games` lines are `Name :: rules :: draws :: players`, where draws look like
+> `hat:5 + styles:2` (a trailing `!` hides those items until revealed) and
+> players is how many people play (blank means everyone).
+> `more` lines are the "Do it again, but…" twists. Leave off the "but".
+
+## solo
+- The one toxic person in every improv 101 class
+- A sommelier who slowly realizes the wine is poison
+- A medieval town crier announcing the new iPhone
+- A nature documentary narrator watching a man try to parallel park
+- A ghost who is very bad at being scary
+- A motivational speaker who loses all hope halfway through the speech
+- A Pixar villain's first therapy session
+- A GPS that has started taking your choices personally
+- A pirate captain asking the crew to fill out a feedback survey
+- A wedding toast from someone who met the couple an hour ago
+- A flight attendant doing the safety demo on a plane that is definitely going down
+- The world's most passionate Costco sample lady
+- A Victorian child seeing an escalator for the first time
+- A lighthouse keeper greeting the first visitor in thirty years
+- An Olympic commentator covering competitive napping
+- A vampire at a blood drive
+- A dad assembling IKEA furniture and insisting he's fine
+- A Shakespearean actor who has been cast as "Tree #2"
+- A cult leader trying to sell you a timeshare
+- A TED talk about the time someone found a dollar
+- A cowboy explaining the internet to his horse
+- A fortune teller who can only see extremely boring futures
+- A substitute teacher who is clearly a raccoon in a trench coat
+- An astronaut who realizes they left the stove on
+- A haunted doll's audition tape
+- A Bond villain whose master plan is mildly inconvenient
+- A football coach giving a halftime speech to a chess team
+- A YouTuber unboxing an ancient cursed artifact
+- A noir detective investigating who ate the office birthday cake
+- A mime who has just been told they're allowed to talk
+- A grandma discovering ASMR
+- A wizard trying to return a wand without a receipt
+- A theme park mascot whose head just fell off in front of children
+- An AI assistant that has fallen deeply in love with you
+- A tour guide at the museum of things you lost as a kid
+- A royal food taster who is really enjoying the job
+- The last person on Earth leaving a voicemail
+- A news anchor reporting on their own breakup live on air
+- A celebrity chef who has never seen food before
+- A podcast host interviewing a bee
+- A magician whose tricks are just regular facts
+- A superhero whose only power is being slightly taller
+- A sleep-deprived new parent auditioning for a musical
+- A nine-year-old TikTok life coach
+- A medieval knight reviewing a Honda Civic
+- A hostage negotiator talking a cat down from a bookshelf
+- A stand-up comic doing crowd work at a library
+- An auctioneer selling a single grape
+- A yoga instructor with escalating road rage
+- A Renaissance painter describing a selfie
+- A spy who keeps accidentally saying their real name
+- A haunted house actor on their very last night before retirement
+- A little league parent who is far too invested in a spelling bee
+- A Hallmark movie detective who is way too good at solving crimes
+- A robot learning to laugh, and it's going badly
+- A tooth fairy conducting an audit
+- A Viking describing his favourite candle scents
+- The hype man for a 400-year-old tortoise
+- The Grim Reaper calling in sick to work
+- A sound engineer asking a ghost to say "check, one, two"
+- A Broadway star stuck in an elevator who refuses to break character
+- An influencer at the bottom of a well
+- A dog's inner monologue at the vet
+- A medieval peasant reviewing Disneyland
+- A frog prince who honestly preferred being a frog
+- A shopping channel host selling a rock with no features
+- A therapist for haunted houses
+- A tired dragon guarding a hoard of expired coupons
+- A wellness guru selling water that "remembers things"
+- A captain going down with a ship that is a pedal boat
+- An Etsy seller who is very clearly a witch
+- A father of the bride who realizes he's at the wrong wedding
+- A real estate agent selling a house where something definitely happened
+- A sports announcer calling a toddler's first steps
+- A blacksmith upselling extended warranties
+- A villain monologuing while their mom keeps calling
+- A self-checkout machine having an existential crisis
+- A pop star introducing a heartfelt song about their tax return
+- The inventor of the high five demonstrating it to the world for the first time
+- An alien trying to pass as a human at a barbecue
+- A paranormal investigator who is scared of absolutely everything
+- A drill sergeant running a six-year-old's birthday party
+- A pharaoh briefing the contractor on their tomb
+- A meteorologist forecasting everyone's feelings
+- A personal trainer working with a sloth
+- A kid giving a book report on a book they did not read
+- A snail delivering extremely urgent news
+- An ASMR artist who cannot stop being loud
+- A Greek god staffing a customer service hotline
+- A ventriloquist whose dummy has filed for divorce
+- A cartoon character who just realized they're in a cartoon
+- A sentient Roomba reading its manifesto
+- A ship's figurehead commenting on the voyage
+- A podcast bro who has just discovered soup
+- An exorcist who is too polite to make the demon leave
+- A Gen Z intern explaining a meme to the board of directors
+- A guy at a party who discovered jazz last week
+- A Southern preacher selling a used car
+- A wobbly tooth explaining why it's leaving
+- A bridge troll launching a new toll payment app
+- A beekeeper who is dating the queen
+- A professional apologizer apologizing for the weather
+- A soap opera actor reading a grocery list
+- A wizard who is 97% sure that's the right spell
+- A Michelin-star chef judging a kid's lemonade stand
+- Someone who has been waiting at the DMV for 400 years
+- A pirate trying to explain cryptocurrency
+- A goose giving a commencement speech
+- A sleep-talker revealing all their secrets
+- An Olympic sprinter ordering at a drive-thru
+- A lifeguard at a pool full of ghosts
+- An old-timey radio announcer describing a TikTok trend
+- A toddler's lawyer arguing for a later bedtime
+- The person who names paint colours, on their worst day
+- A mall Santa in July
+- A karate sensei teaching how to open a stubborn jar
+- A cowboy who just discovered emojis
+- A lonely satellite trying to befriend the moon
+- The ghost of a Victorian chimney sweep reviewing your fireplace
+- A heist mastermind explaining the plan to steal a library book
+- A bodybuilder at their first poetry slam
+- A lighthouse that has developed stage fright
+- A butler announcing guests at a very weird party
+- A conspiracy theorist who is right about one very small thing
+- A Disney princess whose woodland animals have unionized
+- A sports mascot during a very serious contract negotiation
+- An emotional support animal who needs emotional support
+- A medieval doctor prescribing modern self-care
+- A barista who takes your order as a personal attack
+- A stand-in for a famous actor who thinks they're the star
+- A wedding DJ who only owns one song
+- A firefighter rescuing a cat that does not want to be rescued
+- A grandad explaining a video game he has never played
+> From the show (official Make Some Noise channel)
+- A set PA on a power trip
+- The Wikipedia page of a man who 100% edited his own Wikipedia page
+- A drunk god makes Las Vegas
+- The Godfather can't believe no one brought him a little snack
+- An indecisive person orders a dozen donuts
+- A monk shares the meaning of life after 30 years of meditation
+- This doorbell song is way too long
+- An insane reaction to your barber showing you the back of your head
+- A boy going through puberty in 15 seconds
+- A newspaper editorial about Freddy Krueger
+- A caveman gives notes on his buddy's cave paintings
+- The wedding vows are all red flags
+- Anti-capitalist career day
+- A tertiary disciple of Jesus tries to get quotes in the Bible
+- Dumb reasons your kid is crying
+- God's SNL monologue
+- The final test of this French course is to beg for your life
+- A guard in an emotionally fragile place accepts the Trojan horse
+- Alternative lines for part of "Happy Birthday"
+- Relaying important information while the anesthesia kicks in
+- The One Ring's terms of service
+- This private chef can only make French toast
+- A biblically accurate guardian angel
+- The man from Nantucket holds a press conference
+- Sleeping Beauty's get-ready-with-me video
+- Thinly veiled threats from the lead's understudy
+- A lemonade stand kid explains their new business model
+- A cereal mascot who likes being deprived of cereal
+- A doomsday prepper stocked up on all the wrong things
+- When a bar of soap becomes a little nub
+- It's unclear where this skywriting message is going
+- The pastor's first sermon after returning from Vegas
+- The unreleased lyrics to the Jurassic Park theme
+- Every sentence of this Oscars speech is a new thought
+- A philosopher explains why he can't pay this month's rent
+- A TikTok trend that is going to kill someone
+- When your dad's sneeze sounds like "I love you"
+- A pop star stalls hard at her concert
+- A 911 operator wants to chill after work
+- A choreographer refuses to demonstrate the routine
+- A judge stalls because the jury isn't ready
+- A mall Santa takes bold swings with his lore
+- A spelling bee contestant's many, many questions
+- The Grinch who stole Shark Week
+- The final transmission from the failed expedition up Mount Dew
+- Dying and finding out Norse mythology was the correct one
+- A gate attendant is desperate to check your bag
+- What your parents think happens when you download a movie illegally
+- Hamlet can't decide what to order at the Cheesecake Factory
+- A young adult novelist writing and rewriting the scene
+- A judgmental self-checkout machine
+- A Mario Party planner
+- Your friend who complained all board game night just won
+- A country star talks about her humble upbringing as the child of a hedge fund manager
+- A Boy Scout leader levels with you about what skills really matter in life
+- A jury foreman puts some pizzazz into the verdict
+- The person in front of you at the bank the one time all year you go inside
+- The coroner's report has a section about how fun it was for him
+- A 3-second Super Bowl ad that cost half a million dollars
+- The saddest Craigslist post in history
+- These daily affirmations are a bit off
+- Way too sick to be on The Bachelor
+- A coach who does not have an inspiring voice
+- What you're really doing when you send an "I'm on my way" text
+- This rock song is actually Christian
+- Jack Skellington stumbles into Pi Day Town
+- Logging in with 30-factor authentication
+- A political ad to persuade one specific voter
+- A flair bartender makes you just a club soda
+- Uncorking a wine bottle
+- A spelling bee contestant who will be taken out the moment they miss a letter
+- Bob Dylan doing the wave at a baseball game
+- A realtor shows a house your brain invented in a dream
+- A hero who is already over the death of their sidekick
+- How Jane Goodall would describe self-love
+- The first person to ever go to hell
+- The too-long lead-up to a question at a Q&A
+- A butterfly emotionally reverts to a caterpillar when it visits home
+- Captain Ahab vlogs about his grindset mentality
+- A reanimated corpse is nailing this job interview
+- Jigsaw might just be a little lonely
+- This guy probably isn't Peter Pan
+- A CEO's crass layoff spiel over Zoom
+- A cowboy talks about his first time using a bidet
+- Uh-oh, looks like the boss read another business book
+- Day two of your expensive new hobby
+- Your friend came back from a weekend in Amsterdam and is acting all Dutch now
+- A hedonistic houseplant gets overwatered
+- A letter home from the Great Thumb War
+- An existential crisis while playing peekaboo with a baby
+- John Wick realizes his dog was just hiding under the bed
+- Kermit the Frog representing himself in court
+- Tom Cruise explains his dangerous new stunt
+- The most sophisticated toilet in the world
+- A cozy ASMR streamer quietly rage quits
+- A rock climber using a bunch of rock climber lingo
+- Winner of the "Fear of Public Speaking" award
+- A child's lore dump before their friend joins playtime
+- The creator of the square wheel finds out about the round one
+- A believable quintuple-take
+- Bilbo Baggins' ditzy alternate-universe self
+- An Italian dad insists you taste this bolognese
+- Disclaimers about the guy you're seeing before showing your friends his picture
+- A singing telegram serving you papers for property encroachment
+- An emcee's nicknames for the next performer just keep going
+- A deeply personal trainer
+- Shirley Temple is extremely serious about her rider
+- A boyfriend won't admit he's invested in this reality TV storyline
+- The early bird is being a real jerk about it
+- An Oscar-bait monologue with branded content in it
+- A siren who refuses to admit she's past her sailor-luring days
+- A pirate eats a throat lozenge for the first time
+- The longest lottery ticket of all time
+- A grizzled detective's flashback to happier days with his then-alive wife
+- A business cat is distracted by their own laser pointer
+- A judge compliment-sandwiches the defendant during sentencing
+- A quick survey about your experience with life so far
+- The quicksand is really sorry it's gotta do this to you
+- Your grandmother reviews this show
+- Cruella de Vil's evil plot to find forever homes for 101 rescue puppies
+- An obituary for someone who definitely faked their own death
+- Oprah giving everyone a free giant tortoise
+- The Ugly Duckling calls their agent about the title of the book
+- A bedridden British orphan's screenplay
+- A basketball player's far too elaborate free throw routine
+- A future product reviewer talks about the ideal playground rocks
+- Good news becomes bad news becomes good news becomes bad news
+- The real reason the next book in the series is never coming out
+- New hobbit meal ideas
+- A substitute Dungeon Master
+- The most hyper-specific stock photographer ever
+- Someone who has a really specific voice for their pet
+- An off-brand Bond villain
+- Hannibal Lecter at a salad chain
+- Accepting an Oscar with a wedgie
+- The Simlish Pledge of Allegiance
+- A hopeless romantic is wrecked by the time they reach the airport gate
+- A kid who's definitely the reason their parents got divorced
+- Sweeney Todd on The Great British Baking Show
+- A Jane Austen protagonist gets the ick
+- Burger King's new sandwich: the King Lear
+- McDonald's new sandwich: the MacBeth
+- The foreman at the Cheesecake Factory
+- A tattoo punch-up artist
+- A hibachi chef just chopped off their hand but is playing it cool
+- This pilot is too excited to "pull a Sully"
+- Listing all 50 states, competition-style
+- A divorcee's TED talk
+- A medication ad where the announcer experiences all the side effects
+- The really scary parts about being a haunted house actor
+- Your high school bully's guided meditation
+- Judas giving a toast at the Last Supper
+- A female sci-fi character written by a male writer
+- Rip Van Winkle explains the gap in his résumé
+- This presidential acceptance speech was clearly written as the concession speech
+- Willy Wonka's lawyer
+- What parents imagine happens to a bully when you say "sticks and stones"
+- All of Grandpa's stories involve a guy named Chorizo Joe
+- Tonight's DJ set: Professor Bugaboo's Electric Jamboree
+- Asking for clarification on this prompt five times
+- An open-heart surgeon with the attitude of a cool hairdresser
+- Pangea announces its split on social media
+- The tour guide at George Washington's house thinks she could have had him
+- A person zoned out in the Zoom meeting gets asked a question
+- A long speech that becomes less clear about what the occasion is
+- Mads Mikkelsen wins a Kids' Choice Award
+- The rules for Sisyphus: The Board Game
+- A dancing crossing guard is bad at the crossing guard part
+- Jigsaw forgot to prepare a trap and has to wing it
+- I'm just a complicated country lawyer
+- The first person to discover you can drink cow's milk
+- A genie's other stipulations
+- The ghost of St. Patrick's Day past
+- A dodgeball coach is a little too hard on the kids
+- The birds and the bees (and the fire and the sword and the spell and the prophecy)
+- A backwoods moonshine sommelier
+- The anti-windscreen-wiper conspiracy theory
+- Whoops, you zoned out staring into the abyss and now it thinks you're interested
+- Bob Ross drawing insulting caricatures
+- Welcome to Atlas Fitness
+- Jeff Bridges on all the ways he could kill you
+- An alternate dimension where everything is the same except for one thing
+- Two truths and a friendship-ruining truth
+- A charming street rat justifies stealing food, among other crimes
+- Swimmy Todd: the demon narwhal of Fleet Reef
+- The guy on the cross next to Jesus realizes he's next to a celebrity
+- Nicole Kidman's cinema ad for the Container Store
+- An election touchscreen guy announces the group chat's dinner decision
+- That one student who clearly didn't do any of the work on the group project
+- Mr. Mayonnaise: the complete saga
+- A briefcase full of sitcom slap-bass music
+- Scrooge learns the true meaning of Bisexual Awareness Week
+- Hot Topic's new spokesman is Tim Curry
+- A nun's wedding vows to Jesus
+> Escalations: "each a little more ___ than the last"
+- Five sips of water, each a little more refreshing than the last
+- Five laughs, each a little wealthier than the last
+- "You call that a punch?" Five punches, each less convincing than the last
+- Five sneezes, each a little more royal than the last
+- Five yawns, each a little more dramatic than the last
+- Five ways to say "I'm fine", each a little less fine than the last
+- Five bites of a sandwich, each a little more emotional than the last
+- Five goodbyes at the front door, each a little longer than the last
+- Five apologies, each a little less sincere than the last
+- Five gasps, each a little more scandalized than the last
+- Five reactions to opening a present, each a little more disappointed than the last
+- Five stretches, each a little more like a cat than the last
+- Five hellos, each from a slightly older person than the last
+- Five evil laughs, each a little less evil than the last
+- Five handshakes, each a little more uncomfortable than the last
+- Five bows, each a little more humble than the last
+- Five sighs, each a little more Victorian than the last
+- Five ways to say "cool", each a little less cool than the last
+- Five sips of coffee, each a little more caffeinated than the last
+- Five steps into a cold lake, each a little colder than the last
+
+## pair
+- A villain and their real estate agent tour volcano lairs
+- A couple calls for the check but doesn't know the hand motion
+- Two pirates fighting over one very small treasure
+- A vampire and their dentist
+- Two knights who are both too polite to go through the door first
+- A superhero and their extremely boring accountant
+- A ghost and a new tenant negotiating a roommate agreement
+- Two spies who recognize each other at their kids' soccer game
+- A magician and their assistant who is starting a union
+- A dog and a cat co-hosting a morning talk show
+- Two astronauts fighting over the window seat
+- A genie and someone who keeps wasting wishes
+- A wedding planner and a bride who wants a haunted wedding
+- Two rival chefs forced to share one tiny kitchen
+- A detective interrogating a suspect who only answers in riddles
+- A personal shopper helping Dracula buy a summer wardrobe
+- A hostage negotiator and a kidnapper who just wants to talk about their feelings
+- Two contestants on a cooking show where the secret ingredient is regret
+- A mermaid and a lifeguard who insists on saving her
+- A first date between two people who are both secretly robots
+- A personal trainer and a client who is a ghost
+- Two medieval monks discovering a Game Boy
+- A barber and a client who wants "the usual" but has never been there
+- The tooth fairy and a kid who is trying to haggle
+- Two divorce lawyers fighting over custody of a houseplant
+- A cowboy and an alien in a standoff at a gas station
+- A grandparent teaching their grandkid how to be a pirate
+- A mad scientist and their very supportive mom
+- Two Louvre security guards who think the Mona Lisa just winked
+- A car salesman and a customer who is a horse
+- A fairy godmother doing an annual performance review
+- A ventriloquist and their dummy in couples therapy
+- A frog and the princess who absolutely refuses to kiss it
+- Two influencers trapped in a cave with no signal
+- A tour guide and the only tourist, who knows way more than them
+- A movie trailer narrator and the person whose life they're narrating
+- The Grim Reaper and someone who won't stop making small talk
+- Two pigeons planning a heist
+- A wizard and an apprentice who keeps using spells for content
+- A sheriff and an outlaw who are clearly in love
+- Two Victorian ghosts discovering Wi-Fi
+- A shark and a lifeguard negotiating beach hours
+- A wellness influencer and a plague doctor comparing remedies
+- The final two in the world's most dramatic spelling bee
+- A dad and his son learning to fight crime together, and the dad is way too into it
+- A captain and first mate on a ship that is sinking very slowly
+- Two rival fast-food mascots on a first date
+- A ghost hunter and the ghost, who is the ghost hunter's ex
+- A therapist and a client who is a volcano about to erupt
+- Two neighbours in a petty war over a garden gnome
+- An exorcist and a demon who just wants a nicer apartment
+- A bank robber and a teller who is absolutely thrilled to be robbed
+- Two butlers having a silent fistfight at a fancy dinner
+- A knight and a dragon who went to high school together
+- A pop star and a backup dancer who keeps upstaging them
+- Two apocalypse survivors arguing over a streaming password
+- An astronaut and Mission Control, which is just their mom
+- A parole officer and a reformed cartoon villain
+- A tiny horse and its overly ambitious jockey
+- A celebrity and a body double who is way too committed
+- Two bodyguards protecting a sandwich
+- A Shakespearean actor and a method actor stuck in an elevator
+- A DJ and a librarian who have to share a venue
+- A chef and a food critic who is a toddler
+- A flight instructor and a student who is a bird
+- Two mimes having a very loud argument
+- A smart fridge and the family who keeps ignoring it
+- Two sports commentators covering a grandma's knitting circle
+- Two cavemen inventing the first joke
+- A hairdresser and Medusa
+- A swimming instructor teaching a fish
+- A director and an actor who cries on cue at all the wrong moments
+- Two garden gnomes defending the yard from an approaching cat
+- A prince and the glass-slipper fitter who has had a very long day
+- A grocery store manager interviewing a raccoon for a job
+- Two pirates on their first day at a corporate office
+- A doctor and patient on a medical drama where neither knows any medicine
+- A hypnotist and an extremely suggestible volunteer
+- Two rival witches at the same bake sale
+- A news anchor and a weather presenter who are in the middle of a fight
+- An auctioneer and the only bidder, who doesn't realize they're bidding
+- An escape room employee and a customer who won't leave
+- A cop and a robber undercover as the same waiter
+- A wizard and their landlord
+- Two aliens arguing over which human to abduct
+- A sculptor and a statue who has notes
+- A sommelier and a customer who only drinks juice boxes
+- A lifeguard and a ghost who keeps drowning for attention
+- Two retired superheroes at a pickleball tournament
+- A ventriloquist and a heckler who is also a ventriloquist dummy
+- An AI and the human who is trying to break up with it
+> From the show (official Make Some Noise channel)
+- Professor X finds out his new mutant is just a weird guy
+- The genie doesn't get your wish
+- The minute hand and the hour hand overlap
+- Is the scene buffering or is it a dramatic pause?
+- A rock star shouldn't have brought this fan onstage
+- Completely blowing the questions at customs
+- Two grizzled sea captains compare storm stories
+- Two grizzled fishermen compare love stories
+- Two chess grandmasters talk through their moves on a date
+- Telling the caricature artist you know what they're doing
+- The "chit-chat before the podcast begins" podcast
+- These Thanksgiving Day parade hosts want a float
+- This Shark Tank pitch is a crime
+- Your therapist wasn't listening
+- Forgetting your partner's name mid-proposal
+- Gym bros out-protein each other
+- You have to do this to get the Wi-Fi at the coffee shop
+- A Ren Faire village idiot's performance review
+- Whispered commentary on every trailer before the movie
+- Trying to network in the mosh pit
+- Professor Moriarty explains to Sherlock Holmes how he afforded a house
+- The Disney happy ending of Titanic
+- An improv teacher and a cult leader try to recruit each other
+- Enemies to friends to lovers to podcast hosts
+- A couple who clearly got into a fight before their karaoke duet
+- The two astronauts on month nine of being stuck up there
+- Your dad grills the waiter
+- Realizing mid-date that you're going viral
+- Sully the pilot tries to use his heroism to get a table at a restaurant
+- A street canvasser versus a conflict avoider
+- Mad Max: Fury Road driver's ed
+- We no longer challenge each other to duels
+- Bridezilla vs. Mechabridezilla
+- Exploring every branch of dialogue with a video game NPC
+- Two New Yorkers are so New York, we can't understand them
+- Noah's wife is sick of his ark hobby
+- Two gamers speed-run a relationship
+- Saying goodbye to your friend, but you're both going in the same direction
+- The moon and the sun's conversation during an eclipse
+- Two 10,000-bees-in-a-trench-coat go on a date
+- Comic Sans hits on Helvetica at a party
+- One mafioso is too invested in the front business
+- A noble knight's sworn oath starts to concern their liege lord
+- A new bag of baby spinach replaces an old unopened bag
+- Good cop, post-grad cop
+- Good cop, fad cop
+- Mario thinks Luigi should find his own look
+- This census taker might be trying to move in with you
+- A date that is only red flags
+- Little Red Riding Hood apparently always roasted her grandmother like that
+- Bring your competitive sibling to work day
+- The chemistry in this laundry detergent commercial is off the charts
+- The reunion of two high school friends whose MASH results came true
+- A TSA agent goes through a magician's luggage
+- Two wife guys try to out-wife-guy each other
+- New Year's Eve hosts aren't the fun kind of drunk
+- A portrait painter poses the model so they don't have to paint the hard parts
+- Dropping your horror movie child off at daycare
+- A boss confronts their employee, who believes they are in a musical
+- Two morning show hosts out-pleasant each other
+- Shark Tank presenters realize their product already exists
+- A kid's birthday party clown gets heckled
+- Two dads trying to out-proud each other
+- A driverless car flirts with a cop to get out of a ticket
+- Baseball hot dog vendors in a bidding war
+- A cop pulls over his mommy
+- Two finalists at "The Normal Guy" pageant
+- How you wish your upstairs neighbours behaved
+- A driver and their GPS have undeniable chemistry
+- Two inventors trying to patent the same invention
+- An aspiring villain being mentored by a supervillain
+- C-3PO and R2-D2, with R2 translated into English
+- Speed, but the paralegal can't type less than 50 words a minute
+- Sober you vs. drunk you
+- An annoyingly in-love couple who can't finish the story
+- A celebrity's unflattering wax figure reveal
+- Both of these people are definitely wearing a wire
+- A supportive rap battle
+- The best and worst person to sit next to on an airplane
+- Uber, but on horseback
+- Two guys from Brooklyn's fight-turned-meet-cute
+- A local giving way too much information when asked for directions
+- Deeply Southern women trash-talking in the nicest way possible
+- Two Australian actors' accents keep slipping through their American ones
+- Buckingham Palace guards trying to make each other laugh
+- The leader of a cult tries to return some robes
+- Shakespeare's Dude, Where's My Car?
+- Jack asks Rose if they can share the door
+- Polite castaways debate who gets to eat the other
+- A meeting between Times New Roman and Comic Sans
+- Trying to casually sneak all the state birds into a conversation
+- A woman in hell wants to speak to the manager
+- A femme fatale hires a PI to investigate her husband's murder, which she definitely did
+- Tennis match grunts are getting out of hand
+- A meet-cute where the things being dropped are actually really important
+- A true crime podcast about the Hamburglar
+- The priest at the confessional is playing a drinking game
+- Centaurs who feel like they don't belong in either culture
+- Newscasters who can't turn it off at home
+- Frodo and Samwise play I Spy
+- Two clipboard people trying to get each other's signatures
+- Two people born and raised in LA talking about LA
+- Morpheus tries to explain the Matrix to Neo, but he doesn't get it
+- Reading someone their Carrie, Charlotte, Samantha and Miranda rights
+- Consoling your friend while practising your words of the day
+- Letters between two "historically close, unmarried friends"
+- Female characters who can't pass the Bechdel test
+
+## group
+- A boy band reuniting after twenty years, and none of them get along
+- The writers' room for a brand-new children's cartoon
+- A heist crew who are all extremely bad at whispering
+- The world's worst choir rehearsal
+- A family reunion where everyone is secretly a vampire
+- Medieval peasants reacting to the first sneeze in history
+- A support group for retired superheroes
+- A pitch meeting for the next Fast & Furious movie
+- A jury deliberating who ate the last cookie
+- Contestants on a reality show set in a haunted house
+- A Renaissance faire cast during a fire drill
+- The band on the Titanic, but they all want to leave
+- Astronauts on day 300 when the snacks run out
+- A cult that gathered for the end of the world, and it didn't happen
+- Ghosts in a haunted house rehearsing their scares
+- An HOA meeting in a fantasy village
+- A wedding where every single guest objects
+- The first rehearsal of a musical about taxes
+- A team-building retreat for supervillains
+- Zoo animals planning a midnight escape
+- A dinner party where everyone has been poisoned and is too polite to mention it
+- An adventuring party who all chose to be bards
+- Kids at a sleepover telling the least scary ghost stories
+- A spaceship crew meeting an alien who is extremely chill
+- A news team covering a squirrel stuck in a tree like it's a war
+- The worst escape room team in history
+- An emergency board meeting at a company that only sells left shoes
+- A focus group testing a new flavour of air
+- A baby shower for a dragon egg
+- A press conference where everyone thinks they are the president
+- A murder mystery dinner where everyone confesses at once
+- A gym class taught by an ancient wizard
+- A wellness retreat run by medieval monks
+- Superheroes, but they're all dads at a playground
+- A support group for people who can't stop saying "actually"
+- A group project where nobody did their part
+- A bank robbery crew whose getaway driver is a toddler
+- A spa day for gargoyles
+- The first focus group for fire, in the Stone Age
+- Mall Santas on their union break
+- A choir of ghosts who can each sing only one note
+- The writers' room of a soap opera that has run out of ideas
+- A road trip in a tiny car with a giant secret in the trunk
+- A dinosaur family dinner the night before the asteroid
+- A villain's henchmen comparing health benefits
+- A medieval army attempting a trust fall
+- A cast party where everyone is still in character
+- The last employees at the last video rental store
+- Contestants on a baking show where the oven is haunted
+- An airline crew landing a plane while also performing a musical
+- A locker room pep talk before the world's most relaxing sport
+- A neighbourhood watch meeting about one suspicious bird
+- A pirate crew who all get seasick
+- A coven of witches trying to cast a spell over a video call
+- The worst game show ever made
+- The royal court reacting to the king's new haircut
+- A protest by fairytale side characters
+- A secret society that forgot the secret
+- The animals of a nature documentary going on strike
+- An awards show for breakfast cereals
+- A tour group slowly losing members to a mysterious hole
+- Theater kids stuck at a bus stop
+- The Knights of the Round Table, but the table is far too small
+- A town meeting about what to do with the giant
+- An office party where the karaoke machine is possessed
+- A support group for words that are always misspelled
+- A family trying to take the perfect holiday photo during an earthquake
+- A boy scout troop that accidentally summoned something
+- A jazz band where every member thinks they're the soloist
+- The crew of a pirate radio station that is literally on a pirate ship
+- An intervention for a friend who is way too into sourdough
+> From the show (official Make Some Noise channel)
+- Mother Nature, Father Time, Uncle Hot Sauce
+- King Lear and his three influencer daughters
+- Soldiers bored inside the Trojan horse
+- Less popular boy band personality types
+- A no-frills Scandinavian cheerleading team
+- Hollywood execs making huge decisions
+- Gandalf tries to explain a party game to the hobbits
+- A CNN panel is baffled by Robin Hood
+- The Holy Trinity adds a fourth
+- A family sings their argument at Thanksgiving
+- Cheerleaders cheer a eulogy for a fallen classmate
+- Challengers, but for competitive eating
+- A sea shanty about the guy who won't stop doing bits
+- Theater kids' friendship vow before checking the cast list
+- The tension in this reality TV reunion episode
+- A student film that touches on every issue
+- A24 on Ice
+- The new emotions in Inside Out 3
+- Three gorgons hype each other up in the bar bathroom
+- Titles for the host's memoir
+- Two famous rappers and their couples therapist
+- Nosferatu, Count Chocula, and Edward from Twilight
+- The Beastie Boys auction off a rare painting
+- The three wise men realize they all got Jesus the same gift
+- A scene that will be problematic in 3067
+- Toxically positive Christmas elves
+- What D&D sounds like to someone who doesn't play
+- Showing your friends a YouTube video but it's not really hitting
+- A teacher who just said "there are no dumb questions" gets a bunch of stupid questions
+- Succession, but it's about the newspaper crossword team
+- A recording artist and their backup singers are clearly beefing
+- The football team uses the huddle to plan the coach's surprise party
+- Two teens and the ghost controlling their Ouija board
+- Three roommates who didn't get Thanos-snapped
+- Three blurbs on the back of the book "How to Write Book Blurbs"
+- Knights of the beer pong table
+- The court case of Goldilocks v. Bears
+- The ghosts of Christmas strategize about Scrooge
+- A social-anxiety-ridden sea shanty
+- Bringing the sloppiest sandwich in the world to a friend's intervention
+- Catty mourners complaining about this tacky candlelight vigil
+- Making up new Batmen
+- Your family pitching ideas for "your little comedy skits"
+- The stages of grief-themed rollercoaster
+- Periodic Table: The Musical
+- A cutscene in a video game that's glitching out
+- The BBC presents: This Airbnb Sure Has a Lot of Cutting Boards
+- Comments your relatives make about your career
+- Hour twelve of a press junket
+- A kid at the sleepover is clearly the principal undercover
+- One lost hiker suggests cannibalism way too soon
+- A political debate interrupted by a seagull attack
+- They thought it would be romantic to get married in front of a loud waterfall
+- Friends who have all been bitten by zombies
+- A clone, a clone of a clone, and a clone of a clone of a clone
+- A talkback with the cast of Tennessee Williams' new play
+- Three people getting stuck in a waterslide one by one
+- This sitcom audience keeps doing the wrong response
+- This road trip alternates between near-death experiences and jamming to music
+- The angel and devil on your shoulder call out sick, so Derek covers
+- Grocery store employees set up their "staff picks" shelves
+- Dorothy introduces the members of her entourage and what they're missing
+- When no one wants to talk about the play
+- The Bear, but it's a Ren Faire stand
+- If The Bear were as intense about work-life balance
+- The Oompa Loompa song after a kid gets seriously hurt
+- Aliens whose only understanding of the human race is from reality TV
+- Every conversation in LA
+
+## more
+- more Shakespearean
+- in slow motion
+- way sadder
+- as a big Broadway musical
+- you're all freezing cold
+- it's the climax of a horror movie
+- everyone is whispering
+- it's 1,000 years in the future
+- every line has to be a question
+- you're all secretly in love with each other
+- as a telenovela
+- you're all toddlers
+- it's a commercial
+- as a nature documentary
+- you're underwater
+- as an action movie trailer
+- you've just won the lottery
+- in rhyming couplets
+- with way, way more confidence
+- each line starts with the next letter of the alphabet
+- as a daytime soap opera
+- as a cowboy western
+- you're terrified of the audience
+- someone is hiding a huge secret
+- even MORE
+- you're all on a rollercoaster
+- it's a Greek tragedy
+- you're all ghosts now
+- as a K-pop music video
+- as an opera
+- you've each had seven espressos
+- you just woke up
+- you're desperately trying not to laugh
+- as an old-timey radio drama
+- as a 90s sitcom with a laugh track
+- everything is a conspiracy
+- you're all pirates
+- with the energy of a packed stadium
+- you're in a library and have to be quiet
+- backwards — start at the end
+- as a Pixar short with no words
+- it's your last day on Earth
+- the floor is lava
+- as film noir
+- like you're winning an Oscar for it
+- it's a hostage situation
+- you're all Christmas elves
+- incredibly British
+- as a cooking show
+- as medieval knights
+- swap characters
+- half as long and twice as loud
+- entirely in gibberish
+- as a late-night infomercial
+- the stakes are WAY higher
+- everyone is a different animal
+- with a twist nobody saw coming
+- it was all a dream
+- you're competing for a promotion
+- as an anime battle
+- you're all 103 years old
+- it's a first date
+- more
+- MORE
+- way, way, WAY more
+- as a dramatic reading
+- as a rap battle
+- in zero gravity
+- as a true crime podcast
+- you're all very, very tired
+- as a sports broadcast with commentary
+- like a hostage video
+- as a children's TV show
+- you're all spies
+
+## minigame
+- Make the noise :: The sound a Roomba makes when it achieves sentience
+- Make the noise :: A dial-up modem falling in love
+- Make the noise :: A ghost stubbing its toe
+- Make the noise :: A printer that knows it's about to be replaced
+- Make the noise :: A giraffe trying to sneeze quietly
+- Make the noise :: The last ice cube in the glass
+- Make the noise :: A dinosaur trying to whisper
+- Make the noise :: A microwave that is proud of you
+- Make the noise :: Your stomach during a silent exam
+- Make the noise :: A balloon realizing it's been untied
+- Make the noise :: A Wi-Fi router at 2am
+- Make the noise :: A seagull at the end of a long shift
+- Make the noise :: A haunted kettle coming to the boil
+- Make the noise :: A door that really doesn't want to open
+- Make the noise :: A sloth's alarm clock
+- Make the noise :: A smoke alarm with a low battery and a lot of feelings
+- Name it :: A perfume made entirely of regrets
+- Name it :: The band your grandparents secretly started
+- Name it :: A new breakfast cereal for vampires
+- Name it :: The sequel nobody asked for
+- Name it :: A new public holiday, and how we celebrate it
+- Name it :: A racehorse that is guaranteed to lose
+- Name it :: The world's least helpful superhero
+- Name it :: A boat owned by a recently divorced dad
+- Name it :: A self-help book written by a cat
+- Name it :: A strip-mall restaurant run by wizards
+- Name it :: A new dance move, then demonstrate it
+- Name it :: A scented candle for a haunted house
+- Pitch it :: A reality show set in a retirement home for villains
+- Pitch it :: A brand-new Olympic sport
+- Pitch it :: A theme park ride based on doing your taxes
+- Pitch it :: An app that solves a problem nobody has
+- Slogan :: A funeral home that is trying way too hard
+- Slogan :: A gym run entirely by sloths
+- Slogan :: Bottled air
+- Pick-up line :: The best line a pirate has ever used
+- Pick-up line :: What a ghost says to get your attention
+- Last words :: The final words of a neglected houseplant
+- Translate :: What the dog is really saying to the mailman
+- Fortune :: The message inside a cursed fortune cookie
+- Headline :: Tomorrow's front page, about tonight
+- Review :: A one-star review of the moon
+- Review :: A five-star review of a parking ticket
+- Sing it :: The first line of a lullaby for a baby dragon
+- Sing it :: The theme tune for a sitcom about a lonely lighthouse
+- Ad break :: Ten seconds to sell the nearest object to you
+> Challenges from the show
+- Name that sword :: Grab the nearest object. It's a legendary sword now. Name it and tell its legend
+- Name that sword :: Your phone is now an ancient blade. What is it called?
+- Name that clown :: Strike a clown pose. Everyone else shouts its name
+- Name that dog :: Do your best dog. Everyone else names the breed and the dog
+- Name that mascot :: Invent a sports team mascot based on the nearest object
+- Name that mobster :: Strike a gangster pose. The others name the mobster
+- Name that pet :: Describe a pet in one sentence. Everyone else names it
+- Name that toy :: Pitch a toy that should never have been made
+- Sound effect challenge :: A cat-themed pinball machine
+- Sound effect challenge :: A European police siren
+- Sound effect challenge :: The one haunted house sound that doesn't belong
+- Sound effect challenge :: Bowling, from the ball's point of view
+- Rant challenge :: Why aren't capes in fashion anymore?
+- Rant challenge :: The problem with daylight saving time
+- Rant challenge :: The country doesn't have enough trains
+- Rant challenge :: Drug store items locked behind plastic
+- Rant challenge :: Why don't men get flowers?
+- Rant challenge :: There aren't enough episodes of your favourite show
+- Debate this :: Cereal is a soup
+- Debate this :: A hot dog is a sandwich
+- Debate this :: Birds are just tiny dinosaurs who gave up
+- Impressions :: Everyone does their best pig
+- Impressions :: Everyone does their best turkey
+- Impressions :: Everyone does their best horse
+- Impressions :: Everyone does their best baby
+- Impressions :: Everyone does their best version of the host
+- What do you see? :: One player makes a shape with their body. Everyone else says what they see
+- Make a movie :: Pitch a movie with only a title and a tagline
+- Make a theme song :: Sing the theme song for the person on your left
+- Make a character :: Name, catchphrase and walk. Go
+- Make a TV show :: The title and the first line of the pilot
+- Making up new Batmen :: A new Batman and their one weird gimmick
+- Vent it out :: Ten seconds to complain about something that happened today
+- Kid prompt :: Act out a prompt written by a five-year-old: "the dog is the boss"
+- Titles for your memoir :: Name the memoir of the person on your right
+- Name that Star Wars character :: Point at someone. Name the background alien they'd be
+
+## direction
+> "With new direction": a famous line, performed again and again.
+> Press M for each new direction.
+- "I see dead people."
+- "You can't handle the truth!"
+- "I'll have what she's having."
+- "Where we're going, we don't need roads."
+- "A wizard is never late."
+- "We're going to need a bigger boat."
+- "Say hello to my little friend!"
+- "Come with me if you want to live."
+- "Keep the change, ya filthy animal."
+- "Paint me like one of your French girls."
+- "There's no crying in baseball!"
+- "I drink your milkshake!"
+- "Toto, I've a feeling we're not in Kansas anymore."
+- "Life is like a box of chocolates."
+- "And don't call me Shirley."
+- "This tape will self-destruct in five seconds."
+- "Clear eyes, full hearts, can't lose."
+- "Here's looking at you, kid."
+- "May the Force be with you."
+- "I'm the king of the world!"
+- "Houston, we have a problem."
+- "You talkin' to me?"
+- "Show me the money!"
+- "I'll be back."
+- "Nobody puts Baby in a corner."
+- "Why so serious?"
+- "Luke, I am your father."
+- "To infinity and beyond!"
+- "Life, uh, finds a way."
+- "Just keep swimming."
+- "Inconceivable!"
+- "My precious."
+- "Hasta la vista, baby."
+- "There's no place like home."
+- "Bond. James Bond."
+- "It's alive! It's alive!"
+- "Wax on, wax off."
+- "Here's Johnny!"
+- "You shall not pass!"
+- "Help me, Obi-Wan Kenobi. You're my only hope."
+- "I'm walking here!"
+- "Frankly, my dear, I don't give a damn."
+
+## games
+- Scenes from a Hat :: Rapid-fire. The host reads a suggestion, anyone jumps in and acts it out. Next! :: hat:6
+- Film, Theatre and TV Styles :: Two players start a scene. The host shouts a new style whenever they like and the scene carries on in that style. :: settings:1 + styles:6 :: 2
+- Party Quirks :: One player hosts a party and must guess each guest's secret quirk. Host: look away! :: quirks:3! :: 4
+- Questions Only :: A scene where every line must be a question. Hesitate, repeat, or make a statement and you're swapped out. :: settings:1
+- Let's Make a Date :: One player is the bachelor or bachelorette and must guess each contestant's secret identity. Dater: look away! :: identities:3! :: 4
+- Helping Hands :: One player acts, another stands behind them and provides their hands. :: tasks:1 :: 2
+- Hoedown :: Everyone takes a verse of a hoedown about this topic. Keep the rhythm! :: topics:1
+- Greatest Hits :: Two players host an infomercial for a compilation album. Everyone else sings the hits on cue. :: topics:1 + genres:4
+- World's Worst :: Step forward and give your take on the world's worst… :: worsts:1
+- Sound Effects :: One player acts the scene. Another provides every single sound effect. :: settings:1 :: 2
+- Superheroes :: The first player is a superhero facing a crisis. Each new hero is named by the player before them. :: crises:1
+- Dubbing :: Two players act the scene silently while two others provide their voices. :: settings:1 :: 4
+- Alphabet :: A scene where each line begins with the next letter of the alphabet, starting from this letter. :: letters:1 + settings:1 :: 2
+- Newsflash :: One player is a reporter who doesn't know what's happening behind them. The others give clues until they guess. Reporter: look away! :: newsflash:1! :: 3
+- Karaoke Night :: Sing an original song with this title, in this style. :: songs:1 + genres:1 :: 1
+- Karaoke Duet :: Two players perform an original duet. :: songs:1 + genres:1 :: 2
+- Gibberish Interpreter :: One player speaks only gibberish. Another translates for the audience. :: topics:1 :: 2
+- Commentary Box :: One player performs a task while two others commentate like it's a sports final. :: tasks:1 :: 3
+- Prompt Swap :: Everyone whispers a prompt to the player on their right, then performs the prompt they got. Go round the circle. :: none
+- Straight Man :: Everyone tries to be the straight man in a scene while making the others crack. :: settings:1 :: 3
+
+## list hat
+- Things you shouldn't say at a wedding
+- Bad times to sneeze
+- Rejected greeting card messages
+- The worst thing to hear from your pilot
+- What a dog is thinking during a walk
+- Unlikely lines from a children's book
+- Bad names for a pet
+- What the toaster is thinking
+- Things for sale at a supervillain's yard sale
+- Rejected superhero names
+- The worst thing to say on a first date
+- Texts you don't want from your mom
+- Weird things to say in an elevator
+- Unlikely things to hear at a funeral
+- The worst fortune cookie messages
+- Things Santa says when he's off the clock
+- Bad ways to start a speech
+- Rejected national anthems
+- Lines from a really bad action movie
+- The worst thing to say in a job interview
+- Things you shouldn't do in a library
+- What pets do when you're not home
+- Unlikely things to hear from your GPS
+- Bad slogans for a hospital
+- Rejected Olympic events
+- Things a ghost would complain about
+- What the moon thinks of us
+- Bad things to hear from a tattoo artist
+- What your dentist says with the drill in hand
+- Things you don't want to find in your sandwich
+- Unlikely bedtime stories
+- Strange things to yell on a rollercoaster
+- If animals could talk
+- Rejected names for a boy band
+- Things not to say while skydiving
+- What's really going on in a cat's mind
+- Unlikely complaints to the manager
+- Things you shouldn't say when meeting royalty
+- If the furniture could talk
+- Bad things to hear during a massage
+
+## list styles
+- Film noir
+- Telenovela
+- Horror movie
+- Broadway musical
+- Western
+- Dubbed kung fu movie
+- Shakespearean tragedy
+- Nature documentary
+- Sitcom with a laugh track
+- Anime
+- Bollywood musical
+- Opera
+- Children's TV show
+- True crime podcast
+- Silent film
+- Courtroom drama
+- Space opera
+- Reality TV confessional
+- Infomercial
+- Heist movie
+- Animated princess movie
+- Action movie trailer
+- Soap opera
+- Cooking competition
+- Sports broadcast
+- Christmas TV movie
+- Greek tragedy
+- Mockumentary
+- Superhero movie
+- Zombie apocalypse
+- Rom-com airport scene
+- Slow motion
+- Puppet show
+- Music video
+- Period drama
+- Video game cutscene
+
+## list quirks
+- Is a houseplant, slowly wilting
+- Is a ghost who doesn't know they're dead
+- Thinks everyone else is a famous celebrity
+- Is secretly three kids in a trench coat
+- Narrates everything they do
+- Is a dog trying to pass as a human
+- Believes this is a surprise party for them
+- Is a time traveler from Victorian England
+- Turns into a pirate whenever someone laughs
+- Is in witness protection and very bad at it
+- Is slowly turning into a vampire
+- Is a very enthusiastic cruise director
+- Thinks they're on a reality show and keeps doing confessionals
+- Is shrinking
+- Is a sentient vending machine
+- Only speaks in a movie trailer voice
+- Is terrified of furniture
+- Is the host from the future
+- Is a weather system
+- Is a Roomba
+- Gets more British every minute
+- Is an undercover cop who is terrible at it
+- Thinks they're in a horror movie
+- Is a toddler who has had too much sugar
+- Can only speak in sports commentary
+- Is in love with the host's lamp
+- Thinks this is the Louvre
+- Is a pirate's parrot
+- Is trying to sell everyone essential oils
+- Is a robot learning emotions
+- Just won the lottery and can't tell anyone
+- Is a medieval knight on a quest
+- Believes everything in the room is edible
+- Is being followed by a bee
+- Has the hiccups, and each hiccup is louder
+
+## list identities
+- A pirate who lost their parrot
+- Someone who is very obviously a vampire
+- A robot pretending to be human
+- A Victorian ghost
+- A shy professional wrestler
+- A sentient houseplant
+- A spy in a bad disguise
+- Someone who is only here for the free food
+- A mermaid out of water
+- A medieval jester
+- A golden retriever in a suit
+- A conspiracy theorist
+- A retired superhero
+- An extremely nervous astronaut
+- Shakespeare himself
+- A tired mall Santa
+- An influencer livestreaming the date
+- A wizard
+- A cowboy from 1870
+- A toddler's imaginary friend
+- A tax auditor
+- A haunted doll
+- A yeti on holiday
+- A lifeguard who can't swim
+- The host's mom
+- A world-class mime
+- A cat lady who is literally a cat
+- A pop star in hiding
+- A cursed prince
+- A sentient traffic cone
+
+## list settings
+- A dentist's office
+- A submarine
+- A furniture store at closing time
+- The top of Mount Everest
+- A haunted elevator
+- A wedding rehearsal
+- A laundromat at 3am
+- The bridge of a spaceship
+- The DMV
+- A pirate ship
+- A kindergarten classroom
+- A secret volcano lair
+- A hot air balloon
+- A medieval tavern
+- A car wash
+- The zoo after hours
+- A courtroom
+- A cooking show set
+- A camping trip
+- A museum heist
+- The gym
+- A bowling alley first date
+- A bank vault
+- A therapist's office
+- The beach in winter
+- An airport security line
+- A royal banquet
+- A treehouse
+- A bakery at dawn
+- A lifeboat
+
+## list tasks
+- Making a sandwich
+- Doing a makeup tutorial
+- Assembling flat-pack furniture
+- Performing surgery
+- Defusing a bomb
+- Teaching a cooking class
+- Training for a boxing match
+- Painting a self-portrait
+- Packing for a holiday
+- Washing a very large dog
+- Getting ready for a first date
+- Teaching a magic trick
+- Making a cocktail
+- Building a snowman
+- Giving someone a haircut
+- Writing a love letter
+- Wrapping a present
+- Fixing a car engine
+- Holding a séance
+- Decorating a wedding cake
+
+## list topics
+- Doing laundry
+- The DMV
+- Pigeons
+- Cheese
+- Online dating
+- Mondays
+- The dentist
+- Camping
+- Lost socks
+- Gym memberships
+- Taxes
+- Airplane food
+- Grandma's cooking
+- Wi-Fi passwords
+- Self-checkout
+- Haunted houses
+- Cats
+- Moving house
+- Traffic
+- Parking tickets
+- Group chats
+- Pineapple on pizza
+- Hangovers
+- Bees
+- Spaceships
+- The office printer
+- Karaoke
+- Allergies
+- Mosquitoes
+- Garden gnomes
+
+## list worsts
+- Thing to say in a job interview
+- Superhero
+- Thing to hear from your surgeon
+- Birthday present
+- Person to be stuck in a lift with
+- Thing to say on a first date
+- Tour guide
+- Flight attendant
+- Thing to find in your soup
+- Wedding vow
+- Children's entertainer
+- Motivational speaker
+- Last words
+- Pick-up line
+- Pet
+- Magician
+- Thing to say to the King
+- Dentist
+- Lifeguard
+- Yoga instructor
+- Fortune teller
+- Theme park ride
+- Christmas present
+- Wizard
+- Best man speech
+
+## list crises
+- The city's entire coffee supply has been stolen
+- Every cat in the city has learned to talk
+- Someone has unplugged the moon
+- All the left socks are disappearing
+- Gravity is optional on Tuesdays
+- The internet is down forever
+- Someone has replaced the ocean with soup
+- Every clock is running backwards
+- The mayor has been turned into a pigeon
+- All the music has gone out of the world
+- A giant baby is loose downtown
+- Everyone has swapped voices
+- The city has run out of Wednesdays
+- The ducks have unionized
+- The Mona Lisa has escaped
+
+## list newsflash
+- A giant squid is attacking the reporter
+- A stampede of tiny horses
+- The reporter is turning into a zombie
+- A tornado made of bees
+- A building-sized goose is loose
+- An alien wedding is happening
+- A volcano is erupting cheese
+- A parade of clowns is sprinting toward them
+- The reporter is floating off into space
+- A herd of escaped penguins
+- A meteor shaped like a duck
+- A giant inflatable mascot has come to life
+- A flood of maple syrup
+- The reporter is shrinking
+- The dinosaurs are back
+
+## list letters
+- A
+- B
+- D
+- F
+- G
+- H
+- K
+- M
+- P
+- R
+- S
+- T
+- W
+
+## list songs
+- My Heart Is a Parking Ticket
+- Don't Microwave the Fish, Kevin
+- Ballad of the Lost Remote
+- Love in the Time of Dial-Up
+- I Left My Feelings at the Self-Checkout
+- Tuesday's Gone (Again)
+- Sweet Gravy Rain
+- The Roomba Knows
+- Goodbye, Gluten
+- Midnight at the DMV
+- Baby, You're My Wi-Fi
+- Too Many Raccoons
+- Emotional Support Lasagna
+- Dancing With My Landlord
+- Hot Tax Season
+- The Ghost Next Door
+- Your Mom's Casserole
+- Pigeon Dreams
+- Lord of the Leaf Blowers
+- Group Chat Heartbreak
+- I'm Not Crying, It's Onions
+- Wasabi Sunrise
+- Seven Missed Calls
+- Cowboy in a Minivan
+- Don't Call Me Gerald
+- Ode to a Damp Sock
+- Unsubscribe From My Heart
+- Two Scoops of Sadness
+- Crocs in the Rain
+- Let Me Speak to the Manager of Love
+
+## list genres
+- Power ballad
+- Sea shanty
+- Country heartbreak song
+- 80s synth-pop
+- Gospel
+- Emo anthem
+- Disney villain song
+- Barbershop quartet
+- Opera aria
+- Boy band
+- Gregorian chant
+- Christmas jingle
+- Rap battle
+- Lounge jazz
+- Punk rock
+- Lullaby
+- Broadway showstopper
+- Yodel
+- Kids' TV theme
+- Whispered death metal
+- Reggae
+- Spy movie theme
+- Folk protest song
+- Cabaret
+
+## list awards
+- committing to a bit long past the point of reason
+- the best accidental accent
+- the bravest use of silence
+- that noise. You know the one
+- the biggest swing of the night
+- out-of-nowhere emotional depth
+- pure chaotic energy
+- outstanding physical comedy
+- a character we'd watch a whole spin-off about
+- the line we'll be quoting for weeks
+- fearless singing, regardless of key
+- making everyone break
+- the most convincing animal
+- an ending nobody saw coming
+- excellent yes-and-ing
+- saving a scene that was going nowhere
+
+> ---------------------------------------------------------------------------
+> ADULT DECK. Only used when "Adult (18+)" is switched on in the menu.
+> Sections named `## adult <section>` mix into the matching family section,
+> and `## list adult <list>` mixes into that list for the games.
+> ---------------------------------------------------------------------------
+
+## adult solo
+> From the show
+- The producers at this audition want to know if you're open to certain things
+- The moment you realize your friends want to swing
+- This Bop-It is getting kinky
+- A dom hibachi chef
+- A lady in the streets but a control freak in the sheets
+- A horny chain text message for Arbor Day
+- A stoned chef is clearly making up today's specials
+- A sexy but loud car alarm
+- Your girlfriend's grandma thinks of herself as your grand-girlfriend
+- A vulgar rapper performs at the Kids' Choice Awards
+- A dramatic monologue from "Teeny Tiny Little Poops"
+- This urinal whistling is a real bop
+- Samuel L. Jackson gets ten years older every time he curses
+- Shirley Temple is f***ing serious about her rider
+- The early bird is being a real dick about it
+- Your period, the day before a vacation
+- An inappropriate time to say "shut up"
+> New
+- A sex-ed teacher who has clearly never had sex
+- A phone sex operator who keeps getting distracted by their cooking
+- A hungover best man giving the speech
+- A one-night stand writing a Yelp review
+- A dating app bio for a medieval king
+- Someone sexting while autocorrect fights them every step of the way
+- A firefighter stripper who won't stop talking about fire safety
+- A dominatrix who is also extremely Canadian
+- A tantric yoga instructor who is getting very awkward about it
+- An erotic audiobook narrated by a weary accountant
+- A romance novelist who can only describe bodies like real estate listings
+- A walk of shame narrated like a war documentary
+- A swear jar that has finally had enough
+- An adult film director who keeps trying to add more plot
+- A Tinder date who brought a PowerPoint about their exes
+- Someone explaining their kink like it's a TED talk
+- A sex toy giving a retirement speech
+- A drunk uncle's toast at a christening
+- A therapist who swears way too much
+- A filthy pirate who has been told to keep it clean for the kids' party
+- A condom's motivational speech before the big night
+- A stripper explaining their job at career day
+- An OnlyFans creator whose content is just very competent DIY
+- A late-night radio sex advice host who gives terrible advice
+- A breathalyzer that is judging you
+- Someone describing their hangover to a doctor in excruciating detail
+- A strip club DJ hyping up an accountants' convention
+- A vampire whose biting is getting a little too sensual
+- A filthy-minded Victorian lady trying to hide it at afternoon tea
+- A swearing parrot at a church service
+- Someone who has forgotten their safe word
+- A hotel minibar confessing everything it's seen
+
+## adult pair
+> From the show
+- This guy thought getting pegged meant something else entirely
+- Welcome to horny jail
+- The wedding officiant got with the bride and the groom
+- Abstinence youth group leaders who have definitely had sex
+- Two nerdy teens trade stepmom cards
+- The two different types of drunk girl in the bar bathroom
+- A Love Is Blind reveal between two uggos
+- Stoner characters written by someone who's never done drugs
+- A mother-son wedding dance has too much chemistry
+- Two people who need to poop try to politely speed up the conversation
+> New
+- Two sports commentators covering a couple's first night together
+- Two exes who just matched again on a dating app
+- A couple trying to spice things up with role play, badly
+- A bartender cutting off a very drunk wizard
+- A couple trying to be quiet at the in-laws' house
+- Two strangers doing the walk of shame out of the same building
+- A sex therapist and a couple who are both lying
+- A stripper and a customer who just wants career advice
+- Two very drunk friends trying to order a kebab
+- A hungover couple piecing together last night
+- Two swingers trying to recruit their very vanilla neighbours
+- A drunk dial and the person who has to sit through it
+- A wedding night where one spouse would rather do their taxes
+- Two bachelor party survivors explaining themselves to the bride
+- A lingerie salesperson and a very confused grandpa
+- A dominatrix and a client who keeps apologizing
+- A booty call that turns into a job interview
+- A wingman who keeps making things worse
+- A cop and a drunk driver attempting the sobriety test as interpretive dance
+- An adult film star and an extremely serious film critic
+- A couple whose dirty talk is accidentally just the grocery list
+- A pharmacist and someone buying a very suspicious combination of items
+- A tattoo artist and a drunk customer at 3am
+
+## adult group
+> From the show
+- Every f***ing conversation in LA
+- Bitchy mourners complaining about this tacky candlelight vigil
+- The Oompa Loompa song after a kid was straight-up decapitated
+- Mormon parents give you the soaking talk
+- A TV show written for stoned people
+> New
+- A swingers' party where everyone is very British about it
+- A sex-ed class taught by pirates
+- A hen do where everyone is trying to top each other's stories
+- Drunk friends trying to get home from the club
+- A book club that only reads erotica
+- A stag do in a medieval village
+- The morning after a party nobody remembers
+- A strip poker game where everyone is terrible at poker
+- A swearing contest at a church bake sale
+- An orgy planning committee meeting with very strict minutes
+- A summit in the nightclub bathroom
+- A very polite threesome negotiation
+- Drunk karaoke where everyone thinks they're nailing it
+- A walk of shame support group
+- The office Christmas party at 2am
+- Roommates who can all hear each other through the walls
+- A drinking game invented by wizards
+- A dating show where every contestant is hungover
+- A sex shop staff meeting
+
+## adult more
+- sexier
+- you're all very, very drunk
+- with way more swearing
+- you're all extremely horny
+- as a late-night adult cable movie
+- as a steamy romance novel
+- every line is an innuendo
+- you're all horribly hungover
+- as a raunchy rom-com
+- you just got caught
+- as a premium-rate phone line
+- you're all trying to hook up
+- as a Las Vegas bachelor party
+- you're all in a hot tub
+
+## adult minigame
+- Pick-up line :: The filthiest line you can say with a straight face
+- Name it :: A cocktail that guarantees bad decisions
+- Name it :: A sex position named after flat-pack furniture
+- Slogan :: A condom brand for wizards
+- Make the noise :: A bed that was not built for this
+- Review :: A one-star review of a one-night stand
+- Translate :: What your 2am text really meant
+- Safe word :: Invent a safe word and use it in a sentence
+- Last words :: The final words of a hangover
+- Rant challenge :: Why does every bar bathroom have a queue?
+- Name that drag queen :: Give the person on your right their drag name
+- Dirty talk :: Dirty talk, but only about kitchen appliances
+- Sound effect challenge :: A sexy but loud car alarm
+
+## list adult hat
+- Things you shouldn't say in bed
+- Worst things to shout at a strip club
+- Rejected condom slogans
+- Things you don't want to hear from a one-night stand
+- Unlikely things to say during sex
+- Worst things to say at a bachelor party
+- Bad names for a sex toy
+- What your drunk self texted your boss
+- Worst places to get frisky
+- Things you'd hear at a swingers' party
+- Bad excuses on the walk of shame
+- Worst things to whisper to your date
+- Things heard in a club bathroom at 2am
+- Inappropriate things to say during a massage
+
+## list adult quirks
+- Is very drunk and trying to hide it
+- Thinks everything is an innuendo
+- Is desperately trying to hook up with the host
+- Is a stripper on their night off who can't stop performing
+- Is hungover beyond belief
+- Swears like a sailor and keeps apologizing
+- Is the host's very forward ex
